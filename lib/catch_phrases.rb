@@ -9,5 +9,6 @@ def toadstool
 end
 
 def link
-  phrase = "Its"
-  
+  wisdom = "It's Dangerous To Go Alone! Take This."
+  puts wisdom
+end
