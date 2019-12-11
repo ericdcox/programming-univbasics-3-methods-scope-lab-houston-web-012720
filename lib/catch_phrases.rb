@@ -12,3 +12,7 @@ def link
   wisdom = "It's Dangerous To Go Alone! Take This."
   puts wisdom
 end
+
+def any_phrase(phrase)
+  puts phrase
+end
